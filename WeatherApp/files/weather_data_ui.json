@@ -1,0 +1,46 @@
+[
+  {
+    "city": "Kyiv",
+    "country": "UA",
+    "temperature": 4.84,
+    "temperature_fells": 4.84,
+    "humidity": 97,
+    "wind_speed": 0.45,
+    "wind_direction": 91,
+    "pressure": 1008,
+    "weather_description": "overcast clouds"
+  },
+  {
+    "city": "Kharkiv",
+    "country": "UA",
+    "temperature": 5.6,
+    "temperature_fells": 2.3,
+    "humidity": 96,
+    "wind_speed": 4.56,
+    "wind_direction": 181,
+    "pressure": 1011,
+    "weather_description": "light rain"
+  },
+  {
+    "city": "Kyiv",
+    "country": "UA",
+    "temperature": 3.73,
+    "temperature_fells": 0.3,
+    "humidity": 96,
+    "wind_speed": 4,
+    "wind_direction": 161,
+    "pressure": 1013,
+    "weather_description": "broken clouds"
+  },
+  {
+    "city": "London",
+    "country": "GB",
+    "temperature": 0.47,
+    "temperature_fells": 0.47,
+    "humidity": 94,
+    "wind_speed": 0.45,
+    "wind_direction": 313,
+    "pressure": 1020,
+    "weather_description": "broken clouds"
+  }
+]
