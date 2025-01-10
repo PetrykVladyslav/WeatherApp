@@ -36,3 +36,6 @@ The user can select an existing file or specify a new name via a graphical dialo
 3. Click the "Find city weather" button to get weather data.
 4. To save the data, select the format (CSV or JSON) and specify the file.
 5. Click "Exit" to exit.
+
+![Image](https://github.com/PetrykVladyslav/WeatherApp/blob/main/WeatherApp/img/img0.jpg)
+![Image](https://github.com/PetrykVladyslav/WeatherApp/blob/main/WeatherApp/img/img1.jpg)
